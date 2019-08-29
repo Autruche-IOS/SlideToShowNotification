@@ -1,0 +1,9 @@
+Package: com.autruche.slidetoshownotification
+Name: SlideToShowNotification
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Swipe to the left to show the notification instead of opening the app
+Maintainer: Autruche <autruche@mmoi.ml>
+Author: Autruche <autruche@mmoi.ml>
+Section: Tweaks
